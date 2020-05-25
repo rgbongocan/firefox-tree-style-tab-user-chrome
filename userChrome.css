@@ -1,0 +1,13 @@
+
+#sidebar-header {
+  visibility: collapse !important;
+}
+
+#tabbrowser-tabs tab,
+#tabbrowser-tabs tab + toolbarbutton { 
+  visibility: collapse;
+}
+
+.titlebar-spacer {
+	display: none;
+}
